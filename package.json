@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Sviat6239/schoolNewspapperSite#readme",
   "dependencies": {
-    "fastify": "^5.7.4",
-    "sqlite3": "^5.1.7"
+    "better-sqlite3": "^12.6.2",
+    "fastify": "^5.7.4"
   }
 }
