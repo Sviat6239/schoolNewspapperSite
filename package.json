@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "schoolnewspappersite",
+  "version": "1.0.0",
+  "description": "simple webapp for school newspaper in fastify and solid.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sviat6239/schoolNewspapperSite.git"
+  },
+  "author": "Sviatoslav Fediechko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sviat6239/schoolNewspapperSite/issues"
+  },
+  "homepage": "https://github.com/Sviat6239/schoolNewspapperSite#readme",
+  "dependencies": {
+    "fastify": "^5.7.4",
+    "sqlite3": "^5.1.7"
+  }
+}
