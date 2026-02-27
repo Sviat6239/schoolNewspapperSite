@@ -1,2 +1,2 @@
 # schoolNewspapperSite
-simple webapp in Python/Flask and pure HTML/CSS/JS for shool newspapper
+simple webapp in Fastify/Solid.js for shool newspapper
